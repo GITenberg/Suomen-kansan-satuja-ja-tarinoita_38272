@@ -1,0 +1,29 @@
+_repo: Suomen-kansan-satuja-ja-tarinoita_38272
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Salmelainen, Eero
+    alias: Rudbeck, Erik
+    birthdate: 1830
+    deathdate: 1867
+    gutenberg_agent_id: '39362'
+    url: http://www.gutenberg.org/2009/agents/39362
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38272'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Finland'
+- !lcc 'GR'
+- !lcsh 'Folklore -- Finland'
+- !lcsh 'Legends -- Finland'
+title: Suomen kansan satuja ja tarinoita
+url: http://www.gutenberg.org/ebooks/38272
